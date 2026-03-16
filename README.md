@@ -34,5 +34,6 @@
 - Xuất dữ liệu trực tiếp lên server
 - Hiển thị đường đi trên bản đồ
 
-License
+## License
+
 This project is for research and educational purposes.
